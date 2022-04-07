@@ -1,0 +1,40 @@
+﻿@using BorjaSwimSchoolApp.ViewModels
+@model AccountLoginViewModel
+@{
+    ViewData["Title"] = "LogIn";
+}
+
+<div class="card" style="max-width: 450px;margin: auto;">
+  <div class="card-header">
+    <ul class="nav nav-tabs card-header-tabs" id="login-header" role="tablist">
+      <li class="nav-item" role="presentation">
+        <a class="nav-link active" id="login-tab" data-bs-toggle="tab" href="#login"
+          role="tab" aria-controls="login" aria-selected="true">
+          Log In
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="card-body">
+    <div class="tab-content" id="login-content">
+      <div class="tab-pane fade show active" id="login" role="tabpanel" aria-labelledby="login-tab">
+        <h2 class="mb-4">Iniciar sesión</h2>
+        <form asp-controller="Account" asp-action="Login" method="post">
+          <div asp-validation-summary="All" class="text-danger"></div>
+          <strong><label asp-for="Email"></label></strong>
+          <input asp-for="Email" class="form-control" />
+          <span asp-validation-for="Email" class="text-danger"></span>
+          <br />
+          <strong><label asp-for="Password"></label></strong>
+          <input asp-for="Password" class="form-control" />
+          <span asp-validation-for="Password" class="text-danger"></span>
+          <br />
+          <button type="submit" class="btn btn-primary w-100 mt-2">
+            Entrar
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

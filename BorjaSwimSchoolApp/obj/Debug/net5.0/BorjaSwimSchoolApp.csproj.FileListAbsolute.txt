@@ -1,0 +1,344 @@
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\appsettings.Development.json
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\appsettings.json
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.exe
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.deps.json
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.runtimeconfig.json
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.runtimeconfig.dev.json
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\ref\BorjaSwimSchoolApp.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.pdb
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.Views.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.Views.pdb
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\Humanizer.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.csproj.AssemblyReference.cache
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.AssemblyInfoInputs.cache
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.AssemblyInfo.cs
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.csproj.CoreCompileInputs.cache
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.MvcApplicationPartsAssemblyInfo.cache
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.RazorAssemblyInfo.cache
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.RazorAssemblyInfo.cs
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\scopedcss\bundle\BorjaSwimSchoolApp.styles.css
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\staticwebassets\BorjaSwimSchoolApp.StaticWebAssets.Manifest.cache
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.TagHelpers.input.cache
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.TagHelpers.output.cache
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.RazorCoreGenerate.cache
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.RazorTargetAssemblyInfo.cache
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.RazorTargetAssemblyInfo.cs
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.Views.pdb
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.csproj.CopyComplete
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\ref\BorjaSwimSchoolApp.dll
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.pdb
+C:\_DEV-Tarde_ProyectosBorja\12-Curso .NET Core\Projects_NET Core\BorjaSwimSchoolApp\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.genruntimeconfig.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\appsettings.Development.json
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\appsettings.json
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.exe
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.deps.json
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.runtimeconfig.json
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.runtimeconfig.dev.json
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\ref\BorjaSwimSchoolApp.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.pdb
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.Views.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.Views.pdb
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\Humanizer.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.AssemblyInfoInputs.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.AssemblyInfo.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.RazorAssemblyInfo.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.RazorAssemblyInfo.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\scopedcss\bundle\BorjaSwimSchoolApp.styles.css
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\staticwebassets\BorjaSwimSchoolApp.StaticWebAssets.Manifest.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.TagHelpers.input.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.TagHelpers.output.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.RazorCoreGenerate.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Account\AccesoDenegado.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.RazorTargetAssemblyInfo.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.RazorTargetAssemblyInfo.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.Views.pdb
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.csproj.CopyComplete
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\ref\BorjaSwimSchoolApp.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.pdb
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.genruntimeconfig.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.csproj.AssemblyReference.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Role\AllRole.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Role\AddRole.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Role\AddUserRole.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Account\AllUser.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v02\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Administrator\Index.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\appsettings.Development.json
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\appsettings.json
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.exe
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.deps.json
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.runtimeconfig.json
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.runtimeconfig.dev.json
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\ref\BorjaSwimSchoolApp.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.pdb
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.Views.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.Views.pdb
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Humanizer.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.csproj.AssemblyReference.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.AssemblyInfoInputs.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.AssemblyInfo.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.RazorAssemblyInfo.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.RazorAssemblyInfo.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\scopedcss\bundle\BorjaSwimSchoolApp.styles.css
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\staticwebassets\BorjaSwimSchoolApp.StaticWebAssets.Manifest.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.TagHelpers.input.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.TagHelpers.output.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.RazorCoreGenerate.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Account\AccesoDenegado.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Account\AllUser.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Administrator\AddCurso.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Administrator\Index.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Role\AddRole.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Role\AddUserRole.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Role\AllRole.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.RazorTargetAssemblyInfo.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.RazorTargetAssemblyInfo.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.Views.pdb
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.csproj.CopyComplete
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\ref\BorjaSwimSchoolApp.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.pdb
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.genruntimeconfig.cache
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Administrator\AllCurso.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Entrenador\Index.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Entrenador\Profile.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Alumno\Index.cshtml.g.cs
+D:\Visual Studio\BorjaSwimSchoolApp_v03\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Alumno\Profile.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\appsettings.Development.json
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\appsettings.json
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.exe
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.deps.json
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.runtimeconfig.json
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.runtimeconfig.dev.json
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.pdb
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.Views.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\BorjaSwimSchoolApp.Views.pdb
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Humanizer.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.csproj.AssemblyReference.cache
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.AssemblyInfoInputs.cache
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.AssemblyInfo.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.csproj.CoreCompileInputs.cache
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.MvcApplicationPartsAssemblyInfo.cache
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.RazorAssemblyInfo.cache
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.RazorAssemblyInfo.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\scopedcss\bundle\BorjaSwimSchoolApp.styles.css
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\staticwebassets\BorjaSwimSchoolApp.StaticWebAssets.Manifest.cache
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.TagHelpers.input.cache
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.TagHelpers.output.cache
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.RazorCoreGenerate.cache
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Account\AccesoDenegado.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Account\AllUser.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Administrator\AddCurso.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Administrator\AllCurso.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Administrator\Index.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Alumno\Index.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Alumno\Profile.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Entrenador\Index.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Entrenador\Profile.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Role\AddRole.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Role\AddUserRole.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Role\AllRole.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.RazorTargetAssemblyInfo.cache
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.RazorTargetAssemblyInfo.cs
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.Views.pdb
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.csproj.CopyComplete
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\refint\BorjaSwimSchoolApp.dll
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.pdb
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\BorjaSwimSchoolApp.genruntimeconfig.cache
+D:\@ BORJA's Backup\Documents\MÁSTER Desarrollo Web Microsoft & AWS (Tajamar)\12-Post .NET Core (Seed Identity Users & Roles con EF Core)\SeedIdentityUsersRolesNetCore\BorjaSwimSchoolApp\obj\Debug\net5.0\ref\BorjaSwimSchoolApp.dll

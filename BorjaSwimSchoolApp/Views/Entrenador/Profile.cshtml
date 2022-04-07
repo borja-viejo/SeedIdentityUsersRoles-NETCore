@@ -1,0 +1,98 @@
+﻿@using BorjaSwimSchoolApp.Models
+@model Entrenador
+@{
+    ViewData["Title"] = "Entrenador Profile";
+}
+
+<div style="width: 600px;" class="container justify-content-center">
+    <h3 class="text-center mb-4">Editar Perfil</h3>
+
+    <form asp-controller="Entrenador" asp-action="Profile" method="post">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <input asp-for="@Model.User.Id" type="hidden" />
+        <input asp-for="EntrenadorId" type="hidden" />
+
+        <div class="form-group mb-4">
+            <strong><label asp-for="Nombre" class="form-label"></label></strong>
+            <input asp-for="Nombre" class="form-control" />
+            <span asp-validation-for="Nombre" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-4">
+            <strong><label asp-for="Apellido" class="form-label"></label></strong>
+            <input asp-for="Apellido" class="form-control" />
+            <span asp-validation-for="Apellido" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-4">
+            <strong><label asp-for="Telefono" class="form-label"></label></strong>
+            <input asp-for="Telefono" class="form-control" />
+            <span asp-validation-for="Telefono" class="text-danger"></span>
+        </div>
+        <br />
+
+        <div style="width: 360px;" class="container justify-content-center">
+            <button type="submit" class="btn btn-success w-100 mb-1">Guardar</button>
+            <a asp-controller="Entrenador" asp-action="Index" class="btn btn-secondary w-100 mb-4" >
+                Cancelar
+            </a>
+        </div>
+    </form>
+</div>
+
+
+@*@using BorjaSwimSchoolApp.Models
+@model IEnumerable<Entrenador>
+@{
+    ViewData["Title"] = "All Profile";
+}
+
+<div style="width: 720px;" class="container justify-content-center">
+    <h3 class="text-center mb-4">Perfil</h3>
+    <p><a asp-controller="Entrenador" asp-action="AddProfile" class="btn btn-primary w-100">Agregar Perfil</a></p>
+    @if (Model == null)
+    {
+        <p>Cargando datos. Espere por favor...</p>
+    }
+    else if(Model.Count() == 0)
+    {
+        <p>No hay Perfiles en la BBDD todavía.</p>
+    }
+    else
+    {
+        <table class="table table-striped table-hover">
+            <thead>
+                <tr class="table-dark">
+                    <th scope="col">ID</th>
+                    <th scope="col">Entrenador</th>
+                    <th scope="col">Teléfono</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var entrenador in Model)
+                {
+                    <tr>
+                        <th scope="row">@entrenador.EntrenadorId</th>
+                        <td>@entrenador.Apellido, @entrenador.Nombre</td>
+                        <td>@entrenador.Telefono</td>
+                        <td>
+                            <a asp-controller="Entrenador" asp-action="Editar"
+                                asp-route-id="@entrenador.EntrenadorId"
+                                class="btn btn-warning btn-sm">
+                                Edit
+                            </a>
+                            <a asp-controller="Entrenador" asp-action="Eliminar"
+                                asp-route-id="@entrenador.EntrenadorId"
+                                class="btn btn-danger btn-sm">
+                                Delete
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+
+    <p><a asp-controller="Entrenador" asp-action="Index" class="btn btn-secondary w-100">Volver</a></p>
+</div>*@

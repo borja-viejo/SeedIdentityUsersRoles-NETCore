@@ -1,0 +1,54 @@
+﻿@using BorjaSwimSchoolApp.Enums
+@using BorjaSwimSchoolApp.Models
+@model Alumno
+@{
+    ViewData["Title"] = "Alumno Profile";
+}
+
+<div style="width: 600px;" class="container justify-content-center">
+    <h3 class="text-center mb-4">Editar Perfil</h3>
+
+    <form asp-controller="Alumno" asp-action="Profile" method="post">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <input asp-for="@Model.User.Id" type="hidden" />
+        <input asp-for="AlumnoId" type="hidden" />
+
+        <div class="form-group mb-4">
+            <strong><label asp-for="Nombre" class="form-label"></label></strong>
+            <input asp-for="Nombre" class="form-control" />
+            <span asp-validation-for="Nombre" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-4">
+            <strong><label asp-for="Apellido" class="form-label"></label></strong>
+            <input asp-for="Apellido" class="form-control" />
+            <span asp-validation-for="Apellido" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-4">
+            <strong><label asp-for="Telefono" class="form-label"></label></strong>
+            <input asp-for="Telefono" class="form-control" />
+            <span asp-validation-for="Telefono" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-4">
+            <strong><label asp-for="Sexo" class="form-label"></label></strong>
+            <select asp-for="Sexo" asp-items="@Html.GetEnumSelectList<AlumnoSexoEnum>()" class="form-select"></select>
+            <span asp-validation-for="Sexo" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-4">
+            <strong><label asp-for="FxNacimiento" class="form-label"></label></strong>
+            <input type="date" asp-for="FxNacimiento" class="form-control" />
+            <span asp-validation-for="FxNacimiento" class="text-danger"></span>
+        </div>
+        <br />
+
+        <div style="width: 360px;" class="container justify-content-center">
+            <button type="submit" class="btn btn-success w-100 mb-1">Guardar</button>
+            <a asp-controller="Alumno" asp-action="Index" class="btn btn-secondary w-100 mb-4" >
+                Cancelar
+            </a>
+        </div>
+    </form>
+</div>

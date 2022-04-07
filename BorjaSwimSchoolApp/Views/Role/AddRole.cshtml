@@ -1,0 +1,25 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model IdentityRole
+@{
+    ViewData["Title"] = "Add Role";
+}
+
+<div style="width: 600px;" class="container justify-content-center">
+    <h3 class="text-center mb-4">Agregar Role</h3>
+
+    <form asp-controller="Role" asp-action="AddRole" method="post">
+        <div asp-validation-summary="All" class="text-danger"></div>
+
+        <div class="form-group mb-4">
+            <strong><label asp-for="Name" class="form-label">Role</label></strong>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <br />
+
+        <div style="width: 360px;" class="container justify-content-center">
+            <button type="submit" class="btn btn-success w-100 mb-1">Aceptar</button>
+            <a asp-controller="Role" asp-action="AllRole" class="btn btn-secondary w-100 mb-4" >Cancelar</a>
+        </div>
+    </form>
+</div>

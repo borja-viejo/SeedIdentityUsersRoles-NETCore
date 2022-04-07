@@ -1,0 +1,26 @@
+﻿@using BorjaSwimSchoolApp.ViewModels
+@model RoleAddUserRoleViewModel
+@{
+    ViewData["Title"] = "Add User Role";
+}
+
+<div style="width: 560px;" class="container justify-content-center">
+    <h5>Seleccione un Role para <u>@Model.User.UserName</u></h5>
+
+    <form asp-controller="Role" asp-action="AddUserRole" method="post">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <input asp-for="@Model.User.Id" type="hidden" />
+
+        <strong><label asp-for="Role" class="form-label"></label></strong>
+        <select asp-for="Role" asp-items="@Model.RoleList" class="form-select"></select>
+        <span asp-validation-for="Role" class="text-danger"></span>
+        <br /><br />
+
+        <div style="width: 360px;" class="container justify-content-center">
+            <button type="submit" class="btn btn-success w-100 mb-1">Asignar</button>
+            <a asp-controller="Account" asp-action="AllUser" class="btn btn-secondary w-100 mb-4" >
+                Volver al listado de usuarios
+            </a>
+        </div>
+    </form>
+</div>

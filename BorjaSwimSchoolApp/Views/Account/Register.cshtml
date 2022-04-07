@@ -1,0 +1,44 @@
+﻿@using BorjaSwimSchoolApp.ViewModels
+@model AccountRegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="card" style="max-width: 450px;margin: auto;">
+  <div class="card-header">
+    <ul class="nav nav-tabs card-header-tabs" id="register-header" role="tablist">
+      <li class="nav-item" role="presentation">
+        <a class="nav-link active" id="register-tab" data-bs-toggle="tab" href="#register"
+          role="tab" aria-controls="register" aria-selected="true">
+          Sign Up
+        </a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="card-body">
+    <div class="tab-content" id="register-content">
+      <div class="tab-pane fade show active" id="register" role="tabpanel" aria-labelledby="register-tab">
+        <h2 class="mb-4">Regístrate</h2>
+        <form asp-controller="Account" asp-action="Register" method="post">
+          <div asp-validation-summary="All" class="text-danger"></div>
+          <strong><label asp-for="Email"></label></strong>
+          <input asp-for="Email" class="form-control" />
+          <span asp-validation-for="Email" class="text-danger"></span>
+          <br />
+          <strong><label asp-for="Password"></label></strong>
+          <input asp-for="Password" class="form-control" />
+          <span asp-validation-for="Password" class="text-danger"></span>
+          <br />
+          <strong><label asp-for="ConfirmPassword"></label></strong>
+          <input asp-for="ConfirmPassword" class="form-control" />
+          <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+          <br />
+          <button type="submit" class="btn btn-primary w-100 mt-2">
+            Registrarte
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

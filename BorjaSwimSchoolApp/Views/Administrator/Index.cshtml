@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Administrator Home";
+}
+
+<div style="width: 620px;" class="container justify-content-center">
+    <h2 class="text-center mb-5">Administrador</h2>
+
+    <ul>
+        <li>
+            <a asp-controller="Role" asp-action="AllRole" class="fs-5 text-decoration-none">Gestión de Roles</a>
+        </li>
+        <li>
+            <a asp-controller="Account" asp-action="AllUser" class="fs-5 text-decoration-none">Listado de Usuarios</a>
+        </li>
+        <li>
+            <a asp-controller="Administrator" asp-action="AllCurso" class="fs-5 text-decoration-none">Listado de Cursos</a>
+        </li>
+        <li>
+            <a asp-action="AddSesion" class="fs-5 text-decoration-none">Agregar Sesión para un Curso</a>
+        </li>
+    </ul>
+</div>

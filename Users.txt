@@ -1,0 +1,18 @@
+# Usuario 0 (Administrator)
+	E-mail:		admin1@tajamar365.com
+	Password:	$Tajamar00
+
+
+# Usuario 1 (Coach)
+	E-mail:		coach1@tajamar365.com
+	Password:	$Tajamar00
+
+
+# Usuario 2 (Swimmer)
+	E-mail:		swimmer1@tajamar365.com
+	Password:	$Tajamar00
+
+
+# Usuario 3 (Visitor)
+	E-mail:		visitor1@tajamar365.com
+	Password:	$Tajamar00
